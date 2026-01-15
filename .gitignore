@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+model.onnx
+model.onnx.data
+special_tokens_map.json
+tokenizer_config.json
+vocab.txt
